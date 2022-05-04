@@ -18,7 +18,7 @@ html {
     margin-top: 5px;
 }
 #navigation{
-    background-image: url('webpack1.avif');
+    background-image: url('../images/webpack1.avif');
     background-repeat: no-repeat;
     background-size: cover;
     height: 85vh;
