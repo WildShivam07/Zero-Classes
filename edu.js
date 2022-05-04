@@ -35,50 +35,50 @@ function theme() {
     let a = Math.floor(Math.random() * 10);
     console.log(a);
     if (a === 0) {
-        document.getElementById("navigation").style.backgroundImage = "url('../image/webpack1.avif')"
+        document.getElementById("navigation").style.backgroundImage = "url('webpack1.avif')"
         document.getElementById("body").style.backgroundColor = "white"
         document.getElementById("body").style.color = "black";
         document.getElementById("education").style.backgroundColor = "#fe4066";
     }
     if (a === 1) {
-        document.getElementById("navigation").style.backgroundImage = "url('../image/nightlong.avif')"
+        document.getElementById("navigation").style.backgroundImage = "url('nightlong.avif')"
         document.getElementById("body").style.backgroundColor = "rgb(0, 31, 3)"
         document.getElementById("body").style.color = "white";
         document.getElementById("education").style.backgroundColor = "#5d1926";
     }
     if (a === 2) {
-        document.getElementById("navigation").style.backgroundImage = "url('../image/extradark.avif')"
+        document.getElementById("navigation").style.backgroundImage = "url('extradark.avif')"
         document.getElementById("body").style.backgroundColor = "#1d2026"
         document.getElementById("body").style.color = "white";
         document.getElementById("education").style.backgroundColor = "#5d1926";
     }
     if (a === 3) {
-        document.getElementById("navigation").style.backgroundImage = "url('../image/darkest.avif')"
+        document.getElementById("navigation").style.backgroundImage = "url('darkest.avif')"
         document.getElementById("body").style.backgroundColor = "black"
         document.getElementById("body").style.color = "white";
         document.getElementById("education").style.backgroundColor = "#5d1926";
     }
     if (a === 4) {
-        document.getElementById("navigation").style.backgroundImage = "url('../image/hole.avif')"
+        document.getElementById("navigation").style.backgroundImage = "url('hole.avif')"
         document.getElementById("body").style.backgroundColor = "black"
         document.getElementById("body").style.color = "white";
         document.getElementById("education").style.backgroundColor = "#5d1926";
     }
     if (a === 5) {
-        document.getElementById("navigation").style.backgroundImage = "url('../image/moonknight.avif')"
+        document.getElementById("navigation").style.backgroundImage = "url('moonknight.avif')"
         document.getElementById("body").style.backgroundColor = "rgb(0, 1, 24)"
         document.getElementById("body").style.color = "white";
         document.getElementById("education").style.backgroundColor = "#5d1926";
     }
     if (a === 6) {
-        document.getElementById("navigation").style.backgroundImage = "url('../image/light.avif')"
+        document.getElementById("navigation").style.backgroundImage = "url('light.avif')"
         document.getElementById("body").style.backgroundColor = "rgb(225 193 225)"
         document.getElementById("body").style.color = "black";
         document.getElementById("education").style.backgroundColor = "#fe4066";
         document.getElementById("reserved").style.color = "black";
     }
     if (a === 7) {
-        document.getElementById("navigation").style.backgroundImage = "url('../image/sky2.avif')"
+        document.getElementById("navigation").style.backgroundImage = "url('sky2.avif')"
         document.getElementById("body").style.backgroundColor = "#e9d9e9"
         document.getElementById("body").style.color = "black";
         document.getElementById("education").style.backgroundColor = "#fe4066";
@@ -86,13 +86,13 @@ function theme() {
        
     }
     if (a === 8) {
-        document.getElementById("navigation").style.backgroundImage = "url('../image/sky5.avif')"
+        document.getElementById("navigation").style.backgroundImage = "url('sky5.avif')"
         document.getElementById("body").style.backgroundColor = "#1e2e36";
         document.getElementById("body").style.color = "white";
         document.getElementById("education").style.backgroundColor = "#5d1926";
     }
     if (a === 9) {
-        document.getElementById("navigation").style.backgroundImage = "url('../image/sky7.avif')"
+        document.getElementById("navigation").style.backgroundImage = "url('sky7.avif')"
         document.getElementById("body").style.backgroundColor = "#d9d9d9"
         document.getElementById("body").style.color = "black";
         document.getElementById("education").style.backgroundColor = "#fe4066";
