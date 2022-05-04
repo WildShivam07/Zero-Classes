@@ -28,10 +28,6 @@ function burger(){
     }
 }
 
-document.getElementById("navigation").style.backgroundImage = "url('webpack1.avif')"
-
-
-
 function theme() {
     let a = Math.floor(Math.random() * 10);
     if (a === 0) {
