@@ -28,6 +28,7 @@ function burger(){
     }
 }
 
+document.getElementById("navigation").style.backgroundImage = "url('webpack1.avif')"
 
 
 
