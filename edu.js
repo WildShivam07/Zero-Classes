@@ -33,9 +33,8 @@ function burger(){
 
 function theme() {
     let a = Math.floor(Math.random() * 10);
-    console.log(a);
     if (a === 0) {
-        document.getElementById("navigation").style.backgroundImage = "url('webpack1.avif')"
+        document.getElementById("navigation").style.backgroundImage = "url('slight.avif')"
         document.getElementById("body").style.backgroundColor = "white"
         document.getElementById("body").style.color = "black";
         document.getElementById("education").style.backgroundColor = "#fe4066";
